@@ -1,0 +1,14 @@
+{
+    "name":"fayaz",
+    "lname":"nasrati",
+    "car": null,
+    "age": 27,
+    "hobbies": ["football", "swimming"],
+    "friends": {
+        "name":"Mobin",
+        "age": 26,
+        "city": "Kabul"
+    },
+    "programmer" : true
+    
+}
